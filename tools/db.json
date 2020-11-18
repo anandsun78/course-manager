@@ -69,30 +69,6 @@
       "slug": "web-components-shadow-dom",
       "authorId": 1,
       "category": "HTML5"
-    },
-    {
-      "id": 11,
-      "title": "121",
-      "authorId": 1,
-      "category": "3",
-      "createdAt": 1605647267055,
-      "slug": "121"
-    },
-    {
-      "id": 12,
-      "title": "asdd",
-      "authorId": 1,
-      "category": "2",
-      "createdAt": 1605649468430,
-      "slug": "asdd"
-    },
-    {
-      "id": 13,
-      "title": "asd",
-      "authorId": 2,
-      "category": "s",
-      "createdAt": 1605651993699,
-      "slug": "asd"
     }
   ],
   "authors": [
